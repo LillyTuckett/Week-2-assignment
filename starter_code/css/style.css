@@ -1,0 +1,74 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	width: 600px; 
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 50px;
+	background-color: #f0efef;
+	}
+header{
+	text-align: center;
+	height: 300px;
+	width: 100%;
+	background-image: url("../images/header_bg.jpg");
+	color: white;
+	}
+h1{
+	text-align:left;
+	padding: 5px 2000px 10px 80px;
+	font: 24px;
+	font-weight: bold;
+	color: white;
+	}
+h2{
+	text-align: center;
+	font: 24px;
+	font-weight: semibold;
+	}
+.button{
+	color: #033048;
+	background-color: #f9e42e;
+	border: 5px;
+	font: 14px;
+	font-weight: extra bold;
+	}
+.benefits{
+	background-color: #f0efef;
+	color: #606161;
+	font: 13px;
+	font-weight: light;
+	}
+h3{
+	font: 20px;
+	font-weight: semibold;
+}
+.amanda{
+	background-image: url("../images/testimonial_bg.jpg");
+	padding: 50px;
+	color: white;
+	font: 18px;
+	font-weight: light italic;
+	}
+.signup{
+	background: yellow;
+	text-align: center;
+	font: 12px;
+	font-weight: extra bold;
+	border: 5px;
+}
+.footer{
+	text-align: center;
+	background-color: #121212;
+	color: white;
+	padding: 50px 30px 50px 30px;
+	}
+h4{
+	font: 24px;
+	font-weight: extra bold;
+	border: 5px;
+}
+.copyright{
+	align-content: center;
+	font: 9px;
+	font-weight: semibold;
+}
